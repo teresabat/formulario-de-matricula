@@ -44,7 +44,7 @@ aside {
     font: 600 2.5rem/1.25 var(--font-family);
     margin-bottom: 0.5rem;
     & span {
-      color: var(--text-highligth);
+      color: var(--text-highlight);
     }
   }
 }

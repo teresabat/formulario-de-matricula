@@ -13,11 +13,11 @@
   --text-primary: #292524;
   --text-secondary: #57564e;
   --text-tertiary: #8f8881;
-  --text-highligth: #e43a12;
+  --text-highlight: #e43a12;
 
   --surface-primary: #ffffff;
   --surface-secondary: #fee7d6;
-  --surface-disabled: #e7e5e4;
+  --surface-disabled: #fee7d6;
 
   --stroke-default: #d6d3d1;
   --stroke-highlight: #f3541c;
